@@ -4,10 +4,7 @@
 import pandas as pd
 from nltk.tokenize import sent_tokenize, word_tokenize
 import nltk
-from os.path import isfile, join
-from pathlib import Path
 import sys
-import glob
 import os
 import re
 
